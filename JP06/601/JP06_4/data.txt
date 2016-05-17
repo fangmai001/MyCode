@@ -1,0 +1,3 @@
+B 1600 manual
+L 2000 auto
+S 2000 auto
